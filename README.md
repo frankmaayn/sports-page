@@ -1,1 +1,1 @@
-This is a static HTML Sport page
+Sport page created in HTML and CSS
